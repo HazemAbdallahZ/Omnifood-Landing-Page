@@ -2,6 +2,10 @@
 
 Omnifood is a modern, responsive landing page for a fictional AI-powered meal subscription service. Built with HTML, CSS, and JavaScript, this project showcases a polished marketing website with a compelling hero section, featured brand logos, a step-by-step how-it-works section, meal cards, testimonials, pricing, and a strong call to action. The design highlights clean UI, accessibility, and responsive layout across desktop and mobile devices.
 
+## Live demo
+
+Visit the website here: https://omnifood-hazemabdallah.netlify.app/
+
 ## Project structure
 
 - `index.html` — Main HTML file for the landing page.
@@ -47,6 +51,11 @@ http-server -p 8000
 After changes, refresh the browser or use a live-reload tool for faster feedback.
 
 ## Deployment
+
+This project is deployed on Netlify and can be viewed at:
+https://omnifood-hazemabdallah.netlify.app/
+
+If you experience connectivity issues while opening the site, try using a VPN.
 
 ---
 
