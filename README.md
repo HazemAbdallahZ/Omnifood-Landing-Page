@@ -4,7 +4,7 @@ Omnifood is a modern, responsive landing page for a fictional AI-powered meal su
 
 ## Live demo
 
-Visit the website here: https://omnifood-hazemabdallah.netlify.app/
+Visit the website here: https://omnifood-hazemabdallah.vercel.app
 
 ## Project structure
 
@@ -53,9 +53,10 @@ After changes, refresh the browser or use a live-reload tool for faster feedback
 ## Deployment
 
 This project is deployed on Netlify and can be viewed at:
-https://omnifood-hazemabdallah.netlify.app/
 
-If you experience connectivity issues while opening the site, try using a VPN.
+https://omnifood-hazemabdallah.netlify.app
+
+If you experience connectivity issues while opening the site, try using a VPN.](https://omnifood-hazemabdallah.vercel.app/)
 
 ---
 
